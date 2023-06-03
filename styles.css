@@ -1,0 +1,248 @@
+a{
+    text-decoration: none;
+}
+.ad{
+    background-color: rgb(29, 122, 197);
+    padding: 8px;
+    text-align: center;
+}
+button{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+}
+.blight{
+    background-color: white;
+}
+.bdark{
+    background-color: black;
+}
+.chrome{
+    padding: 0 20px;
+    background-color: rgb(29, 122, 197);
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-size: larger;
+}
+.chrome:hover{
+    background-color: rgb(22, 84, 134);
+}
+.drops{
+    display: inline-block;
+    position: absolute;
+    right: 170px;
+}
+.dd{
+    display: inline-block;
+    position: fixed;
+    right: 170px;
+    background-color: black;
+}
+.download{
+    padding: 15px 30px;
+    background-color: rgb(29, 122, 197);
+    border: none;
+    border-radius: 25px;
+    color: white;
+}
+.download:hover{
+    background-color: rgb(22, 84, 134);
+}
+.ddlight{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}
+.ddark{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+.metalearn{
+    color: white;
+    font-family: sans-serif;
+}
+.maintext{
+    padding: 0 170px;
+    display: inline-block;
+    width: 65%;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 1000;
+}
+.mainimg{
+    margin: 0 170px 0 0;
+}
+nav{
+    margin: 0;
+    padding: 0;
+}
+.navi{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+#icon{
+    position: absolute;
+    right: 5px;
+    height: 18px;
+    width: 18px;
+}
+.txtl{
+    font-size: 45px;
+    color: rgb(65, 58, 58);
+}
+.txtd{
+    font-size: 45px;
+    color: white;
+}
+.descl{
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(65, 58, 58);
+}
+.descd{
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+}
+.og{
+    list-style: none;
+    margin: 0;
+}
+.feat{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.featuresl{
+    position: absolute;
+    left: 480px;
+    background-color: white;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.featuresd{
+    position: absolute;
+    left: 480px;
+    background-color: black;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+    color: white;
+}
+.supportl{
+    position: absolute;
+    left: 610px;
+    background-color: white;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.supportd{
+    position: absolute;
+    left: 610px;
+    color: white;
+    background-color: black;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.aboutl{
+    position: absolute;
+    left: 710px;
+    background-color: white;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.aboutd{
+    position: absolute;
+    left: 710px;
+    color: white;
+    background-color: black;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.buildl{
+    position: absolute;
+    left: 820px;
+    background-color: white;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.buildd{
+    position: absolute;
+    left: 820px;
+    color: white;
+    background-color: black;
+    border-style: solid ;
+    border-width: 3px;
+    border-color: rgba(128, 128, 128, 0.418);
+}
+.ogs{
+    display: inline-block;
+    padding: 30px;
+    font-family: sans-serif; 
+}
+.ft{
+    padding: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.ddlight:hover{
+    color: rgb(29, 122, 197);
+}
+img{
+    padding: 0;
+}
+.body1{
+    padding: 0 0 0 170px;
+    width: 60%;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+}
+.body2{
+    padding: 0 170px 0 120px;
+    width: 55%;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+}
+
+.tl{
+    font-size: 25px;
+    color: rgb(65, 58, 58);
+}
+.td{
+    font-size: 25px;
+    color: white;
+}
+
+.img1{
+    padding: 0 170px 0 100px;
+}
+.img2{
+    padding-left: 170px;
+}
+.img3{
+    padding-right: 170px;
+}
+footer{
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(156, 156, 156);
+}
+.chl{
+    text-align: center; font-family: 'Mulish', sans-serif; font-size: small;
+}
+.chd{
+    text-align: center; font-family: 'Mulish', sans-serif; font-size: small; color: white;
+}
